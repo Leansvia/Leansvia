@@ -1,4 +1,4 @@
-<h1 align="center">Hi Im Leans</h1>
+<h1 align="center">Hi 👋 Im Leans</h1>
 <h3 align="center">I am a Software Student</h3>
 
 - 🔭 I’m currently working on **BotClup**
