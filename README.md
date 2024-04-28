@@ -17,7 +17,7 @@ def  __social__(self):
  └─$
 ```
 
-<p align="center"><img src="https://count.getloli.com/get/leansvia" alt=":rsh" /></p>
+<p align="center"><img src="https://count.getloli.com/get/leansv" alt=":rsh" /></p>
 
  
 
