@@ -1,19 +1,19 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
 
-<a href="https://github.com/rshcan"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
+<a href="https://github.com/Leansvia"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
-┌──(resehe@root)-[~/]
-└─$ cat rsh.py
+┌──(leans@root)-[~/]
+└─$ cat las.py
 
-class rshcan:
+class leans:
 
 def  __social__(self):
- self.gtb = "https://github.com/rshcan"
- self.dsc = "rshcxn" 
- self.tlg = "rshcxn"
+ self.gtb = "https://github.com/Leansvia"
+ self.dsc = "leansx" 
+ self.ig = "leansx"
   
- ┌──(resehe@root)-[~/]
+ ┌──(leans@root)-[~/]
  └─$
 ```
 
