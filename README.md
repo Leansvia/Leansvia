@@ -14,4 +14,4 @@ def  __social__(self):
  └─$
 ```
 
-**Bu hesabı aktif olarak kullanıyorum fakat dosyalarım gizli.** ![icon](https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif)
+![icon](https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif)**Bu hesabı aktif olarak kullanıyorum fakat dosyalarım gizli.** ![icon](https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif)
