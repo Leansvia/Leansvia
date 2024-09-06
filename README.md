@@ -19,3 +19,5 @@ def  __social__(self):
     <strong>Bu hesabı aktif olarak kullanıyorum fakat dosyalarım gizli.</strong>
     <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
 </div>
+
+![Ziyaretçi Sayısı](https://profile-counter.glitch.me/{leansvia}/count.svg)
