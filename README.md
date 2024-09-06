@@ -20,5 +20,5 @@ def  __social__(self):
     <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
 </div>
 
-![GitHub Views](https://komarev.com/ghpvc/?leansvia=<leansvia>)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=Kumara2mahe%2FViews-Counter)
 
