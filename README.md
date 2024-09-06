@@ -1,4 +1,3 @@
-![Views Counter](https://views-counter.vercel.app/badge?pageId=leansvia%2FViews-Counter)
 ```python
 ┌──(leans@root)-[~/]
 └─$ cat las.py
