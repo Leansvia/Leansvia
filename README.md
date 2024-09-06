@@ -13,6 +13,5 @@ def  __social__(self):
  ┌──(leans@root)-[~/]
  └─$
 ```
-    <strong>Bu hesabı aktif olarak kullanıyorum fakat dosyalarım gizli.</strong>
-
+    ***Bu hesabı aktif olarak kullanıyorum fakat dosyalarım gizli.***
 
