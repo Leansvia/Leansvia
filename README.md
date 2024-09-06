@@ -20,4 +20,5 @@ def  __social__(self):
     <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
 </div>
 
-![Ziyaretçi Sayısı](https://profile-counter.glitch.me/{leansvia}/count.svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=<leansvia>)
+
