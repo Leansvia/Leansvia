@@ -15,3 +15,6 @@ def  __social__(self):
 ```
 
 ![icon](https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif)**Bu hesabı aktif olarak kullanıyorum fakat dosyalarım gizli.** ![icon](https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif)
+
+![Ziyaretçi Sayısı](https://profile-counter.glitch.me/{leansvia}/count.svg)
+
