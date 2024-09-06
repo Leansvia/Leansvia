@@ -13,10 +13,6 @@ def  __social__(self):
  ┌──(leans@root)-[~/]
  └─$
 ```
-
-<div align="center">
-    <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
     <strong>Bu hesabı aktif olarak kullanıyorum fakat dosyalarım gizli.</strong>
-    <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
-</div>
+
 
