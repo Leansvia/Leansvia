@@ -14,17 +14,14 @@ def  __social__(self):
  └─$
 ```
 
+    ![Views Counter](https://views-counter.vercel.app/badge?pageId=leansvia%2FViews-Counter)
+
+
 <div align="center">
     <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
     <strong>Bu hesabı aktif olarak kullanıyorum fakat dosyalarım gizli.</strong>
     <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
 </div>
 
-
-<div align="center">
-    <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
-    ![Views Counter](https://views-counter.vercel.app/badge?pageId=leansvia%2FViews-Counter)
-    <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
-</div>
 
 
