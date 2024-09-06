@@ -21,6 +21,10 @@ def  __social__(self):
 </div>
 
 
+<div align="center">
+    <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
+    ![Views Counter](https://views-counter.vercel.app/badge?pageId=leansvia%2FViews-Counter)
+    <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" alt="icon" width="100">
+</div>
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=leansvia%2FViews-Counter)
 
