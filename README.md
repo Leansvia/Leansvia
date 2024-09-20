@@ -1,6 +1,6 @@
 ```python
 ┌──(leans@root)-[~/]
-└─$ cat las.py
+└─# cat las.py
 
 class leans:
 
@@ -10,7 +10,7 @@ def  __social__(self):
  self.ig = "efewhesx"
   
  ┌──(leans@root)-[~/]
- └─$
+ └─#
 ```
 
 
