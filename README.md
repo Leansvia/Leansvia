@@ -13,4 +13,4 @@ def  __social__(self):
  └─#
 ```
 
-```Toplam proje 13```
+```Total respo 13```
