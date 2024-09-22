@@ -14,3 +14,4 @@ def  __social__(self):
 ```
 
 ```Total respo 13```
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:1073638705421627494)
